@@ -1,8 +1,10 @@
-﻿Imports System.Data.SqlClient
+'Course form
+Imports System.Data.SqlClient
 
 Public Class frmCourse
 
     Sub Reset()
+        
         txtCCode.Text = ""
         cmbDept.SelectedIndex = -1
         'cmbDept.Text = ""
