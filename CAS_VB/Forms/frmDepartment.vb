@@ -1,4 +1,5 @@
 ﻿Imports System.Data.SqlClient
+'department form'
 Public Class frmDepartment
     Sub Reset()
         txtDept.Text = ""
