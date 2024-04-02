@@ -1,4 +1,5 @@
-﻿Public Class frmSplash
+'form'
+Public Class frmSplash
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
         ProgressBar1.Visible = True
         ProgressBar1.Value = ProgressBar1.Value + 2
