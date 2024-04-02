@@ -1,4 +1,5 @@
 ﻿Imports System.Data.SqlClient
+'form'
 Public Class frmChangePass
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         Try
